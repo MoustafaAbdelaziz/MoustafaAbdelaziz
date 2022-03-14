@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoustafaAbdelaziz
 - 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning professional track of EGYPT FWD initiative. 
+- 🌱 I finished professional track of EGYPT FWD initiative. 
 - 💞️ I’m looking to collaborate on Datasets for analysis purposes.
 - 📫 How to reach me mostafazizo545@gmail.com
 
