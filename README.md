@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moustafa Abd El-Aziz
 - 👀 I’m interested in software engineer
-- 💞️ I’m looking to c++ jobs.
+- 💞️ I’m looking for dotnet developer jobs.
 - 📫 How to reach me MoustafaAbdElAzizFCIH@gmail.com
 - This is my [LinkedIn](https://www.linkedin.com/in/moustafa-abdelaziz/)
 
